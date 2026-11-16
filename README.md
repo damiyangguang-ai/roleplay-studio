@@ -1,5 +1,9 @@
 # roleplay-studio
 
+[![CI](https://github.com/damiyangguang-ai/roleplay-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/damiyangguang-ai/roleplay-studio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+
 成年角色虚构创作的**设定工程**工具：角色卡、关系状态、剧情连续性。
 
 它解决的是"长剧情里人设崩、关系跳跃、模型忘了前文"，**不是**"让模型不再拒绝"。
