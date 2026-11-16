@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物（含本机路径与证据，不入库）
+out/
+out-task/
+evidence/
+tasks/
+*.log
+
+# 生成产物
+desktop-plugin/rendercheck/plugin.under-test.mjs
+desktop-plugin/rendercheck/plugin.broken.mjs
+desktop-plugin/_rendercheck/node_modules/
+
+# 本机状态
+service.json
+transactions.json
+.DS_Store
+Thumbs.db
